@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-88
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "needlestick idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "needlestick left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-146
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "needlestick down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-68
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "needlestick up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				-143
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "needlestick right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/needstick",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "needle",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-90,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
