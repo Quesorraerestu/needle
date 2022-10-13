@@ -1,0 +1,25 @@
+{
+	"storyName": "needlestick",
+	"hideFreeplay": false,
+	"weekBackground": "UI",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"needstick",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Castoff",
+			"needle",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Needlestick"
+}
